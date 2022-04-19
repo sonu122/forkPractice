@@ -6,6 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
+<h1>Sonu Rathaur</h1>
   <img alt="Vue logo" src="./assets/logo.png" />
   <button class="py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
   Save changes
